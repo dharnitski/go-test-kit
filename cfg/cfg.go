@@ -1,5 +1,5 @@
 package cfg
 
 func Config() string {
-	return "hello from v1"
+	return "hello from v2"
 }

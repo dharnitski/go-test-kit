@@ -1,5 +1,5 @@
 package log
 
 func Log() string {
-	return "hello from v1"
+	return "hello from v2"
 }
